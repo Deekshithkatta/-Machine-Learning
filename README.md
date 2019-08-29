@@ -1,2 +1,2 @@
 # -Machine-Learning
-Find S algorithm
+Find-S Algorithm Implementation in Python
